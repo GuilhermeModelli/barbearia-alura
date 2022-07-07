@@ -1,0 +1,30 @@
+* /*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*/
+
+body {
+  background: #cccccc;
+}
+
+#banner {
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+#missao {
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+b {
+  color: black;
+}
