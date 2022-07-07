@@ -9,6 +9,7 @@ body {
 }
 
 #banner {
+  width: 100%;
 }
 
 h1 {
@@ -24,7 +25,13 @@ p {
   text-align: center;
   color: red;
   font-style: italic;
+  font-size: 20px;
 }
+
 b {
   color: black;
+}
+
+.itens {
+  font-style: italic;
 }
